@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1462144012 source:c:\users\rafael\documents\c\vending machine\main.c
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+	<Teclado.h>
+
+1462124043 source:c:\users\rafael\documents\c\vending machine\src\reestoque.cpp
+	"reestoque.h"
+
+1462124043 c:\users\rafael\documents\c\vending machine\include\reestoque.h
+
+1462138113 c:\users\rafael\documents\c\vending machine\troco.c
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+
+1462138685 source:c:\users\rafael\documents\c\vending machine\troco.c
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+
+1462140668 c:\users\rafael\documents\c\vending machine\teclado.c
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+
+1462143112 source:c:\users\rafael\documents\c\vending machine\teclado.c
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+
+1462141806 c:\users\rafael\documents\c\vending machine\include\teclado.h
+
+1462141545 source:c:\users\rafael\documents\c\vending machine\src\teclado2.cpp
+	"Teclado2.h"
+
+1462141545 c:\users\rafael\documents\c\vending machine\include\teclado2.h
+

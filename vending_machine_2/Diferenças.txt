@@ -1,0 +1,6 @@
+	A primeira versão da vending machine foi feita usando comandos e estruturas básicos da linguagem c. Ela basicamente funcionava numa sequencia direta de uso do usuario.
+O programa estava organizado em uma estrutura única.
+	A segunda versao usa os conceitos aprendidos durante o semestre para uma organização da forma de diagrama de estados. Dessa maneira os comandos fazem o estado atual
+da máquina variar e a passagem de um estado para o outro produz um evento específico relacionado àquela transição. 
+A estrutura do programa foi dividida em cada componente físico presente na máquina. Dessa maneira, uma implementação real da máquina teria uma estrutura muito mais parecida
+com a segunda implementação.

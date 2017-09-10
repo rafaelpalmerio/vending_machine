@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1461896755 source:c:\users\cad\documents\poli\programacao\vending_machine_2\dispenser_moedas.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"dispenser_moedas.h"
+
+1461820396 c:\users\cad\documents\poli\programacao\vending_machine_2\definicoes_sistema.h
+
+1461897465 c:\users\cad\documents\poli\programacao\vending_machine_2\dispenser_moedas.h
+
+1461894281 source:c:\users\cad\documents\poli\programacao\vending_machine_2\dispenser_produtos.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"dispenser_produtos.h"
+
+1461806939 c:\users\cad\documents\poli\programacao\vending_machine_2\dispenser_produtos.h
+
+1461896839 source:c:\users\cad\documents\poli\programacao\vending_machine_2\display.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"display.h"
+
+1461897565 c:\users\cad\documents\poli\programacao\vending_machine_2\display.h
+
+1461892860 source:c:\users\cad\documents\poli\programacao\vending_machine_2\estoque.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"estoque.h"
+
+1461891599 c:\users\cad\documents\poli\programacao\vending_machine_2\estoque.h
+
+1461896839 source:c:\users\cad\documents\poli\programacao\vending_machine_2\teclado.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"teclado.h"
+
+1461806130 c:\users\cad\documents\poli\programacao\vending_machine_2\teclado.h
+
+1461896755 source:c:\users\cad\documents\poli\programacao\vending_machine_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"dispenser_moedas.h"
+	"dispenser_produtos.h"
+	"display.h"
+	"estoque.h"
+	"teclado.h"
+
+1462153797 source:c:\users\rafael\documents\c\vending_machine_2\vending_machine_2\dispenser_moedas.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"dispenser_moedas.h"
+
+1462158800 c:\users\rafael\documents\c\vending_machine_2\vending_machine_2\definicoes_sistema.h
+
+1461897465 c:\users\rafael\documents\c\vending_machine_2\vending_machine_2\dispenser_moedas.h
+
+1462154763 source:c:\users\rafael\documents\c\vending_machine_2\vending_machine_2\dispenser_produtos.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"dispenser_produtos.h"
+
+1461806939 c:\users\rafael\documents\c\vending_machine_2\vending_machine_2\dispenser_produtos.h
+
+1462152123 source:c:\users\rafael\documents\c\vending_machine_2\vending_machine_2\display.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"display.h"
+
+1462152123 c:\users\rafael\documents\c\vending_machine_2\vending_machine_2\display.h
+
+1462162971 source:c:\users\rafael\documents\c\vending_machine_2\vending_machine_2\estoque.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"estoque.h"
+
+1462151911 c:\users\rafael\documents\c\vending_machine_2\vending_machine_2\estoque.h
+
+1462162530 source:c:\users\rafael\documents\c\vending_machine_2\vending_machine_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"definicoes_sistema.h"
+	"dispenser_moedas.h"
+	"dispenser_produtos.h"
+	"display.h"
+	"estoque.h"
+	"teclado.h"
+
+1461806130 c:\users\rafael\documents\c\vending_machine_2\vending_machine_2\teclado.h
+
+1462156865 source:c:\users\rafael\documents\c\vending_machine_2\vending_machine_2\teclado.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"teclado.h"
+
